@@ -1,6 +1,6 @@
 # jpa01-vprchlik
 
-Deployed at: https://jpa01-replace-me.dokku-06.cs.ucsb.edu
+Deployed at: https://jpa01-vprchlik.dokku-06.cs.ucsb.edu
 
 
 # About this repo
